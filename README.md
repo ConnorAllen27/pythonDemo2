@@ -6,7 +6,7 @@ This is some python code to test extracts from a cloud build from a TELUS health
 
 This code is meant to be uploaded to the cloud along with some other cloudbuild.yml and some other supporting python files.
 
-Omited bucket names, project names and security key names for security
+Omited bucket names, project names and security key names
 
 I also included a docker file becuase the application mentioned it.
 
