@@ -1,5 +1,5 @@
 # pythonDemo
-For the job applications
+For job applications
 
 
 This is some python code to test extracts from a cloud build from a TELUS health EMR.
